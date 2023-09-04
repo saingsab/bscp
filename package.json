@@ -1,6 +1,12 @@
 {
   "name": "bscp",
+  "author": "Saing Sab",
+  "description": "Basic smart contract project template",
   "packageManager": "yarn@3.2.3",
+  "licence": {
+    "type": "MIT",
+    "url": "https://www.opensource.org/licenses/mit-license.php"
+  },
   "devDependencies": {
     "@ethersproject/abi": "^5.7.0",
     "@ethersproject/providers": "^5.7.1",
