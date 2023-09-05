@@ -1,7 +1,7 @@
-[![codecov](https://codecov.io/gh/saingsab/bscp/graph/badge.svg?token=MLGU7W9S44)](https://codecov.io/gh/saingsab/bscp)
-
 # BSCP
 Basic Smart Contract Project(BSCP) template
+
+[![codecov](https://codecov.io/gh/saingsab/bscp/graph/badge.svg?token=MLGU7W9S44)](https://codecov.io/gh/saingsab/bscp)
 
 This template using a basic Hardhat, mocha test, typechain. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
 
