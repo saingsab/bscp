@@ -1,10 +1,9 @@
-# Sample Hardhat Project
+# BSCP
+Basic Smart Contract Project(BSCP) template
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This template using a basic Hardhat, mocha test, typechain. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
 
-Try running some of the following tasks:
-
-### How's it's born
+### How dose it make from?
 Using Yarn Berry:
 ```
 yarn init -2
@@ -17,7 +16,6 @@ yarn hardhat init
     .gitignore? Y
 yarn add --dev [list of suggested dev dependencies above]
 yarn add mocha --dev
-code .
 ```
 ### Recommended extensions
 [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
