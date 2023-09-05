@@ -1,3 +1,4 @@
+import 'solidity-coverage';
 import { HardhatUserConfig } from "hardhat/config";
 import "@nomicfoundation/hardhat-toolbox";
 

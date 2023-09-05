@@ -1,3 +1,5 @@
+[![codecov](https://codecov.io/gh/saingsab/bscp/graph/badge.svg?token=MLGU7W9S44)](https://codecov.io/gh/saingsab/bscp)
+
 # BSCP
 Basic Smart Contract Project(BSCP) template
 
